@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+    <message>
+        <text>❄️ The cold greets you. Welcome to Sakhal.</text>
+        <delay>120</delay>
+        <repeat>2400</repeat>
+    </message>
+
+    <message>
+        <text>No PvP here. killing survivors results in a ban.</text>
+        <delay>360</delay>
+        <repeat>3000</repeat>
+    </message>
+
+    <message>
+        <text>Those who kill survivors do not remain on Sakhal.</text>
+        <delay>600</delay>
+        <repeat>3600</repeat>
+    </message>
+
+    <message>
+        <text>Bases are safe. Build. Shelter. Endure.</text>
+        <delay>840</delay>
+        <repeat>3600</repeat>
+    </message>
+</messages>
