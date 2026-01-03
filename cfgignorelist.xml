@@ -18,5 +18,24 @@
 	<type name="WolfMask"></type>
 	<type name="Spear"></type>
 	<type name="Mag_STANAGCoupled_30Rnd"></type>
-	<type name="Wreck_Mi8"></type>	
+	<type name="Wreck_Mi8"></type>
+
+	<!--
+	<type name="CivilianSedan"></type>
+	<type name="CivilianSedan_Black"></type>
+	<type name="CivilianSedan_Wine"></type>
+	<type name="Hatchback_02"></type>
+	<type name="Hatchback_02_Black"></type>
+	<type name="Hatchback_02_Blue"></type>
+	<type name="OffroadHatchback"></type>
+	<type name="OffroadHatchback_Blue"></type>
+	<type name="OffroadHatchback_White"></type>
+	<type name="Offroad_02"></type>
+	<type name="Sedan_02"></type>
+	<type name="Sedan_02_Grey"></type>
+	<type name="Sedan_02_Red"></type>
+	<type name="Truck_01_Covered"></type>
+	<type name="Truck_01_Covered_Blue"></type>
+	<type name="Truck_01_Covered_Orange"></type>
+	-->
 </ignore>

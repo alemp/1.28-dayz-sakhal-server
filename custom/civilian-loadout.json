@@ -26,7 +26,7 @@
       "slotName": "Gloves",
       "discreteItemSets": [
         {
-          "itemType": "WoolGlovesFingerless_Black",
+          "itemType": "WorkingGloves_Black",
           "spawnWeight": 1,
           "attributes": {
             "healthMin": 1.0,
@@ -102,7 +102,7 @@
       "slotName": "Back",
       "discreteItemSets": [
         {
-          "itemType": "MountainBag_Orange",
+          "itemType": "TaloonBag_Blue",
           "spawnWeight": 1,
           "attributes": {
             "healthMin": 1.0,
@@ -111,12 +111,89 @@
             "quantityMax": 1.0
           },
           "quickBarSlot": -1,
-          "simpleChildrenTypes": [],
+          "simpleChildrenTypes": [
+            "Hatchet"
+          ],
           "simpleChildrenUseDefaultAttributes": false,
           "complexChildrenTypes": []
         }
       ]
     }
   ],
-  "discreteUnsortedItemSets": []
+  "discreteUnsortedItemSets": [
+    {
+      "name": "Cargo1",
+      "spawnWeight": 1,
+      "attributes": {
+        "healthMin": 1.0,
+        "healthMax": 1.0,
+        "quantityMin": 1.0,
+        "quantityMax": 1.0
+      },
+      "simpleChildrenTypes": [],
+      "simpleChildrenUseDefaultAttributes": false,
+      "complexChildrenTypes": [
+        {
+          "itemType": "KitchenKnife",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "BakedBeansCan",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "WaterBottle",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "BandageDressing",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "Matchbox",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "ChernarusMap",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        }
+      ]
+    }
+  ]
 }

@@ -1074,9 +1074,9 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>15</nominal>
+        <min>10</min>
+        <max>13</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1093,9 +1093,9 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>14</nominal>
+        <min>12</min>
+        <max>14</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1129,9 +1129,9 @@
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>15</nominal>
+        <min>12</min>
+        <max>15</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1148,9 +1148,9 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>15</nominal>
+        <min>12</min>
+        <max>15</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1167,9 +1167,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>15</nominal>
+        <min>12</min>
+        <max>15</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1180,8 +1180,8 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
+            <child lootmax="0" lootmin="0" max="8" min="6" type="Truck_01_Covered"/>
+            <child lootmax="0" lootmin="0" max="7" min="6" type="Truck_01_Covered_Blue"/>
         </children>
     </event>
     <event name="AdminTruck01">
@@ -1198,7 +1198,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
 </events>
