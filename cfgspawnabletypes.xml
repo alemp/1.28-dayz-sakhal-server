@@ -3236,18 +3236,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="OffroadHatchback_Blue">
 		<attachments chance="1.00">
@@ -3295,18 +3295,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="OffroadHatchback_White">
 		<attachments chance="1.00">
@@ -3354,18 +3354,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="Offroad_02">
 		<attachments chance="1.00">
@@ -3416,18 +3416,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<!-- -->
 	<type name="CivilianSedan">
@@ -3482,18 +3482,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
@@ -3547,18 +3547,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">
@@ -3612,18 +3612,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<!-- -->
 	<type name="Hatchback_02">
@@ -3678,18 +3678,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="Hatchback_02_Black">
 		<attachments chance="1.00">
@@ -3743,18 +3743,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="Hatchback_02_Blue">
 		<attachments chance="1.00">
@@ -3808,18 +3808,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<!-- -->
 	<type name="Sedan_02">
@@ -3874,18 +3874,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="Sedan_02_Red">
 		<attachments chance="1.00">
@@ -3939,18 +3939,18 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
+		</cargo>
+		<cargo chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>
+		</cargo>
 	</type>
 	<type name="Sedan_02_Grey">
 		<attachments chance="1.00">
@@ -4706,7 +4706,6 @@
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-	</type>
 	</type>
 <!--
 	<type name="V3S_Chassis">

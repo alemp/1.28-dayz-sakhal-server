@@ -20,7 +20,7 @@
 	<type name="Mag_STANAGCoupled_30Rnd"></type>
 	<type name="Wreck_Mi8"></type>
 
-
+	<!--
 	<type name="CivilianSedan"></type>
 	<type name="CivilianSedan_Black"></type>
 	<type name="CivilianSedan_Wine"></type>
@@ -37,5 +37,5 @@
 	<type name="Truck_01_Covered"></type>
 	<type name="Truck_01_Covered_Blue"></type>
 	<type name="Truck_01_Covered_Orange"></type>
-
+	-->
 </ignore>
