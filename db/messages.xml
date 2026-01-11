@@ -2,26 +2,26 @@
 <messages>
 
     <message>
-        <text>❄️ The cold greets you. Welcome to Sakhal.</text>
+        <text>The cold greets you. Welcome to Sakhal+.</text>
         <delay>120</delay>
         <repeat>2400</repeat>
     </message>
 
     <message>
         <text>No PvP here. killing survivors results in a ban.</text>
-        <delay>360</delay>
-        <repeat>3000</repeat>
+        <delay>120</delay>
+        <repeat>2400</repeat>
     </message>
 
     <message>
-        <text>Those who kill survivors do not remain on Sakhal.</text>
-        <delay>600</delay>
-        <repeat>3600</repeat>
+        <text>Do not build on military areas. Base Max 2 walls high. 1 truck and 1 car per base. </text>
+        <delay>120</delay>
+        <repeat>2400</repeat>
     </message>
 
     <message>
-        <text>Bases are safe. Build. Shelter. Endure.</text>
-        <delay>840</delay>
-        <repeat>3600</repeat>
+        <text>Bases are safe. Build. Shelter. Endure. RAID = BAN</text>
+        <delay>120</delay>
+        <repeat>2400</repeat>
     </message>
 </messages>

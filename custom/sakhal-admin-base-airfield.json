@@ -2761,7 +2761,7 @@
       "enableCEPersistency": 0
     },
     {
-      "name": "IodineTincture",
+      "name": "VitaminBottle",
       "pos": [
         7173.82470703125,
         3.8229289054870607,
@@ -2836,7 +2836,7 @@
       "enableCEPersistency": 0
     },
     {
-      "name": "M16A2",
+      "name": "M4A1",
       "pos": [
         7174.89501953125,
         3.4323036670684816,
